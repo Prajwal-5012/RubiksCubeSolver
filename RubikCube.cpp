@@ -1,6 +1,3 @@
-//
-// Created by Prajwal on 02-07-2023.
-//
 
 #include "RubikCube.h"
 
