@@ -1,6 +1,3 @@
-//
-// Created by Prajwal on 03-07-2023.
-//
 
 #include "bits/stdc++.h"
 #include "../RubikCube.h"
