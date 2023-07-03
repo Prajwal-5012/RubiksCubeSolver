@@ -1,6 +1,3 @@
-//
-// Created by Prajwal on 02-07-2023.
-//
 
 #ifndef RUBIKSCUBESOLVER_RUBIKCUBE_H
 #define RUBIKSCUBESOLVER_RUBIKCUBE_H
