@@ -1,6 +1,4 @@
-//
-// Created by Prajwal on 02-07-2023.
-//
+
 #include"rubikcube.h"
 
 class RubiksCube3DArray: public RubikCube{
